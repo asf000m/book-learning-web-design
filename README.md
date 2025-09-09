@@ -1,6 +1,8 @@
-<h1>Learning Web Design, Fifth Edition - A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics</h1>
+<h1>Learning Web Design, Sixth Edition - A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics</h1>
 <h2>Jennifer Niederst Robbins</h2>
-<p>2018. O’Reilly Media, Inc.</p>
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1737856519i/216848149.jpg" height="300px" alt="">
+<p>2025. O’Reilly Media, Inc.</p>
+<p>ISBN 978-1-098-13768-7</p>
 <hr>
 <h3>Part I. GETTING STARTED</h3>
 <h4>1. Getting Started in Web Design - <em>Completed</em></h4>
