@@ -6,7 +6,7 @@
 <hr>
 <h3>Part I. GETTING STARTED</h3>
 <h4>Chapter 1. Getting Started in Web Design - <em>Completed 2025-10-04</em></h4>
-<h4>Chapter 2. How the Web Works - <em>Completed</em></h4>
+<h4>Chapter 2. How the Web Works - <em>Completed 2025-10-05</em></h4>
 <h4>Chapter 3. Some Big Concepts You Need to Know - <em>Completed</em></h4>
 <br>
 <h3>Part II. HTML FOR STRUCTURE</h3>
