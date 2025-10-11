@@ -10,7 +10,7 @@
 <h4>Chapter 3. Some Big Concepts You Need to Know - <em>Completed 2025-10-06</em></h4>
 <br>
 <h3>Part II. HTML FOR STRUCTURE</h3>
-<h4>Chapter 4. Creating a Simple Page - <em>Completed</em></h4>
+<h4>Chapter 4. Creating a Simple Page - <em>Completed 2025-10-11</em></h4>
 <h4>Chapter 5. Marking Up Text - <em>Completed</em></h4>
 <h4>Chapter 6. Adding Links - <em>Completed</em></h4>
 <h4>Chapter 7. Adding Images - <em>Completed</em></h4>
